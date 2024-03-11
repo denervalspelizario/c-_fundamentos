@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\bin\Debug\net7.0\TiposDeDados3.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\bin\Debug\net7.0\TiposDeDados3.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\bin\Debug\net7.0\TiposDeDados3.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\bin\Debug\net7.0\TiposDeDados3.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\bin\Debug\net7.0\TiposDeDados3.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\refint\TiposDeDados3.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\TiposDeDados3.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\TiposDeDados3\TiposDeDados3\obj\Debug\net7.0\ref\TiposDeDados3.dll
