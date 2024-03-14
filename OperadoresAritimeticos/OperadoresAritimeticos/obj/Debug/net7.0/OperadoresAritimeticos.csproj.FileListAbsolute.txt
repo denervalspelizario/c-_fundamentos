@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net7.0\OperadoresAritimeticos.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\refint\OperadoresAritimeticos.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\OperadoresAritimeticos.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net7.0\ref\OperadoresAritimeticos.dll
