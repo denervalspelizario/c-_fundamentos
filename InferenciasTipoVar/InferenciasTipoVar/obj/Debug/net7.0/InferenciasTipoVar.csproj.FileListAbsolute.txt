@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\bin\Debug\net7.0\InferenciasTipoVar.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\bin\Debug\net7.0\InferenciasTipoVar.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\bin\Debug\net7.0\InferenciasTipoVar.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\bin\Debug\net7.0\InferenciasTipoVar.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\bin\Debug\net7.0\InferenciasTipoVar.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\refint\InferenciasTipoVar.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\InferenciasTipoVar.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\InferenciasTipoVar\InferenciasTipoVar\obj\Debug\net7.0\ref\InferenciasTipoVar.dll

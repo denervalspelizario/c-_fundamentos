@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net7.0\OperadoresDeAtribuicao.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net7.0\OperadoresDeAtribuicao.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net7.0\OperadoresDeAtribuicao.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net7.0\OperadoresDeAtribuicao.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net7.0\OperadoresDeAtribuicao.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\refint\OperadoresDeAtribuicao.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net7.0\ref\OperadoresDeAtribuicao.dll
