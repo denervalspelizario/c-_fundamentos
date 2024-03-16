@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\bin\Debug\net7.0\OperadoresRelacionais.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\refint\OperadoresRelacionais.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\OperadoresRelacionais.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\OperadoresRelacionais\OperadoresRelacionais\obj\Debug\net7.0\ref\OperadoresRelacionais.dll

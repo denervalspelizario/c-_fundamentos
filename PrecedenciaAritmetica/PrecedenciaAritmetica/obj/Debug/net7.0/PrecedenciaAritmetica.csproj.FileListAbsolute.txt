@@ -1,0 +1,15 @@
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\bin\Debug\net7.0\PrecedenciaAritmetica.exe
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\bin\Debug\net7.0\PrecedenciaAritmetica.deps.json
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\bin\Debug\net7.0\PrecedenciaAritmetica.runtimeconfig.json
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\bin\Debug\net7.0\PrecedenciaAritmetica.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\bin\Debug\net7.0\PrecedenciaAritmetica.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.AssemblyInfoInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.AssemblyInfo.cs
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.csproj.CoreCompileInputs.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.sourcelink.json
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\refint\PrecedenciaAritmetica.dll
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.pdb
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\PrecedenciaAritmetica.genruntimeconfig.cache
+D:\repositorio\estudo_.NET\01-Fundamentos\PrecedenciaAritmetica\PrecedenciaAritmetica\obj\Debug\net7.0\ref\PrecedenciaAritmetica.dll
