@@ -1,0 +1,15 @@
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\bin\Debug\net8.0\OperadorTernario.exe
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\bin\Debug\net8.0\OperadorTernario.deps.json
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\bin\Debug\net8.0\OperadorTernario.runtimeconfig.json
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\bin\Debug\net8.0\OperadorTernario.dll
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\bin\Debug\net8.0\OperadorTernario.pdb
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfoInputs.cache
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfo.cs
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.csproj.CoreCompileInputs.cache
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.sourcelink.json
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.dll
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\refint\OperadorTernario.dll
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.pdb
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\OperadorTernario.genruntimeconfig.cache
+D:\repositorio\c-_fundamentos\OperadorTernario\OperadorTernario\obj\Debug\net8.0\ref\OperadorTernario.dll

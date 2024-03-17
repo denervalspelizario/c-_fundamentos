@@ -1,0 +1,15 @@
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\bin\Debug\net7.0\ExerciciosFundamentos2.exe
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\bin\Debug\net7.0\ExerciciosFundamentos2.deps.json
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\bin\Debug\net7.0\ExerciciosFundamentos2.runtimeconfig.json
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\bin\Debug\net7.0\ExerciciosFundamentos2.dll
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\bin\Debug\net7.0\ExerciciosFundamentos2.pdb
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.AssemblyInfoInputs.cache
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.AssemblyInfo.cs
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.csproj.CoreCompileInputs.cache
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.sourcelink.json
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.dll
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\refint\ExerciciosFundamentos2.dll
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.pdb
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ExerciciosFundamentos2.genruntimeconfig.cache
+D:\repositorio\c-_fundamentos\ExerciciosFundamentos2\ExerciciosFundamentos2\obj\Debug\net7.0\ref\ExerciciosFundamentos2.dll

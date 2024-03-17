@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9B2l3LwBnGiiF0rvR6BTTICHPY7uOln3uL0NfiKU9P6l/Px8QaSCjnaz0k4qGBnkqwVlWiVCJ4tTtj8I31my1Q==",
+  "success": true,
+  "projectFilePath": "D:\\repositorio\\c-_fundamentos\\ExercicioFundamentos2_parte2\\ExercicioFundamentos2_parte2\\ExercicioFundamentos2_parte2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ares\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ares\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ares\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

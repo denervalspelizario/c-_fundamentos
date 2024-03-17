@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8CpcZLJrA5MgBuXeyU6vLvGjMlAXpXwdoYOX2gRya+BZsovw49mUIwBmRJi9H4Q9NoCAemDbRaNGBFiz4MCQw==",
+  "success": true,
+  "projectFilePath": "D:\\repositorio\\c-_fundamentos\\OperadorTernario\\OperadorTernario\\OperadorTernario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ares\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ares\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Ares\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

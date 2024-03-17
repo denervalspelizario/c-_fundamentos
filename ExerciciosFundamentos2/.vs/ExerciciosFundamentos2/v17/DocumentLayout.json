@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\c-_fundamentos\\ExerciciosFundamentos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C3CB68-220F-409F-8497-B53F27C2DC51}|ExerciciosFundamentos2\\ExerciciosFundamentos2.csproj|d:\\repositorio\\c-_fundamentos\\exerciciosfundamentos2\\exerciciosfundamentos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C3CB68-220F-409F-8497-B53F27C2DC51}|ExerciciosFundamentos2\\ExerciciosFundamentos2.csproj|solutionrelative:exerciciosfundamentos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\c-_fundamentos\\ExerciciosFundamentos2\\ExerciciosFundamentos2\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosFundamentos2\\Program.cs",
+              "ToolTip": "D:\\repositorio\\c-_fundamentos\\ExerciciosFundamentos2\\ExerciciosFundamentos2\\Program.cs",
+              "RelativeToolTip": "ExerciciosFundamentos2\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:55:07.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

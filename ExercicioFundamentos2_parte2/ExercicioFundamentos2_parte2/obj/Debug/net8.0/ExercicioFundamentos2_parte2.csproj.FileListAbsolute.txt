@@ -1,0 +1,15 @@
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\bin\Debug\net8.0\ExercicioFundamentos2_parte2.exe
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\bin\Debug\net8.0\ExercicioFundamentos2_parte2.deps.json
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\bin\Debug\net8.0\ExercicioFundamentos2_parte2.runtimeconfig.json
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\bin\Debug\net8.0\ExercicioFundamentos2_parte2.dll
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\bin\Debug\net8.0\ExercicioFundamentos2_parte2.pdb
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.AssemblyInfoInputs.cache
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.AssemblyInfo.cs
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.csproj.CoreCompileInputs.cache
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.sourcelink.json
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.dll
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\refint\ExercicioFundamentos2_parte2.dll
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.pdb
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ExercicioFundamentos2_parte2.genruntimeconfig.cache
+D:\repositorio\c-_fundamentos\ExercicioFundamentos2_parte2\ExercicioFundamentos2_parte2\obj\Debug\net8.0\ref\ExercicioFundamentos2_parte2.dll
